@@ -27,6 +27,8 @@ for i in range(len(input_list)):
 			posit = input_list[i + 3]
 			input_list[posit] = mult
 			#print(input[posit])
+
+
 	
 
 
