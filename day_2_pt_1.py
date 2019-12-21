@@ -8,8 +8,8 @@ nums = list(nums.replace("\n", "").split(","))
 input_list = [int(n) for n in nums]
 
 #make changes to list specified in problem 
-input_list[1] = 12
-input_list[2] = 2
+input_list[1] = 25
+input_list[2] = 5
 
 #loop through list
 for i in range(len(input_list)):
